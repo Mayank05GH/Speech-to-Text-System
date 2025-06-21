@@ -20,3 +20,6 @@ To demonstrate proof of successful execution, I took a clear screenshot of my Co
 
 Through this task, I learned how speech recognition works, how to handle audio data in Python, and how to integrate speech APIs in a real-world project. I also gained experience using Google Colab for practical AI development. Overall, this task highlights how AI can bridge the gap between human language and digital text, which is a core part of many AI-driven tools and voice-controlled applications today. By completing Task 2, I demonstrated my understanding of speech-to-text processing and my ability to implement and test it efficiently using cloud-based tools.
 
+*OUTPUT*
+[transcription_output.txt](https://github.com/user-attachments/files/20846721/transcription_output.txt)
+
