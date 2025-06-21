@@ -23,3 +23,5 @@ Through this task, I learned how speech recognition works, how to handle audio d
 *OUTPUT*
 [transcription_output.txt](https://github.com/user-attachments/files/20846721/transcription_output.txt)
 
+![Image](https://github.com/user-attachments/assets/d785d8ae-6a45-4d7c-ae60-12a295981494)
+
